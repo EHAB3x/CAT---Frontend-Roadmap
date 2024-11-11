@@ -22,8 +22,10 @@ Front-end development involves creating the **visual and interactive components*
 > - **URLs** (Uniform Resource Locators)
 > - **Browser Functionality**
 > - **DNS**, Domain Names, & Hosting
-> 
-> **Recommended Resources:**
+
+<br/>
+
+### Recommended Resources
 > - [The Front-end Development Tech/Spec Overview 📖](https://frontendmasters.com/guides/learning-roadmap/front-end-development-overview/#1)
 > - [How does the Internet work? 📄](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 > - [World Wide Web (WWW) Basic Mechanics 📄](https://frontendmasters.com/guides/learning-roadmap/www-basic-mechanics/)
@@ -38,12 +40,14 @@ Front-end development involves creating the **visual and interactive components*
 
 ### Git & GitHub
 
->**GitHub** is a web-based platform for **version control and collaboration**. It allows developers to work together, manage code changes, and track the >history of their projects.
->
->#### Git - Version Control
->Git is a **version control system** that enables collaboration, versioning, and rollback in source code projects.
->
->**Resources to Learn Git & GitHub:**
+**GitHub** is a web-based platform for **version control and collaboration**. It allows developers to work together, manage code changes, and track the history of their projects.
+
+#### Git - Version Control
+Git is a **version control system** that enables collaboration, versioning, and rollback in source code projects.
+
+<br/>
+
+### Resources to Learn Git & GitHub
 >- [Learn Git and GitHub](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) [Elzero Web School]
 >- [learn Git in Arabic](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) [Algorithm Academy]
 >- [**Git and GitHub | شخبط وانت متطمن](https://www.youtube.com/watch?v=Q6G-J54vgKc) [Recommended]
