@@ -28,15 +28,15 @@ Front-end development involves creating the **visual and interactive components*
 <br/>
 
 ### Recommended Resources
-> - [The Front-end Development Tech/Spec Overview 📖](https://frontendmasters.com/guides/learning-roadmap/front-end-development-overview/#1)
-> - [How does the Internet work? 📄](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-> - [World Wide Web (WWW) Basic Mechanics 📄](https://frontendmasters.com/guides/learning-roadmap/www-basic-mechanics/)
-> - [An Overview of HTTP 📄](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-> - [How The Web Works 📄](https://academind.com/tutorials/how-the-web-works)
-> - [What is a web browser? 📄](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
-> - [How Browsers Work 📄](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/)
-> - [What is DNS? 📄](https://aws.amazon.com/route53/what-is-dns/)
->  - [What is a domain name? 📄](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/)
+> - [The Front-end Development Tech/Spec Overview ](https://frontendmasters.com/guides/learning-roadmap/front-end-development-overview/#1)
+> - [How does the Internet work? ](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+> - [World Wide Web (WWW) Basic Mechanics ](https://frontendmasters.com/guides/learning-roadmap/www-basic-mechanics/)
+> - [An Overview of HTTP ](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+> - [How The Web Works ](https://academind.com/tutorials/how-the-web-works)
+> - [What is a web browser? ](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
+> - [How Browsers Work ](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/)
+> - [What is DNS? ](https://aws.amazon.com/route53/what-is-dns/)
+>  - [What is a domain name? ](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/)
  
 <br/>
 
@@ -53,9 +53,9 @@ Git is a **version control system** that enables collaboration, versioning, and 
 >- [Learn Git and GitHub](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) [Elzero Web School]
 >- [learn Git in Arabic](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) [Algorithm Academy]
 >- [**Git and GitHub | شخبط وانت متطمن](https://www.youtube.com/watch?v=Q6G-J54vgKc) [Recommended]
->- [Git book - Git 📄](https://git-scm.com/book/en/v2)
->- [Git Cheat Sheet repo 📄](https://github.com/FADL285/git-cheat-sheet)
->- [GitHub Guides 📄](https://guides.github.com/activities/hello-world/)
+>- [Git book - Git ](https://git-scm.com/book/en/v2)
+>- [Git Cheat Sheet repo ](https://github.com/FADL285/git-cheat-sheet)
+>- [GitHub Guides ](https://guides.github.com/activities/hello-world/)
 
 <br/>
 
@@ -224,6 +224,159 @@ Learn to build and style web pages using HTML and CSS. Practice creating layouts
 <br/>
 
 ---
+
+<br/>
+
 ### e. Basic Level Tasks
 
 [Basic Tasks](https://www.notion.so/fff36d2c6e8d8174ac8ee9a678cbbf77?pvs=21)
+
+<br/>
+
+---
+
+<br/>
+
+## 2. Intermediate
+
+### a.Bootstrap
+
+Bootstrap is a popular open-source CSS framework that provides pre-designed web elements and components for developers to use in their web projects. It was originally developed by Twitter and is now maintained by a community of developers. Bootstrap is designed to make it easy for developers to create responsive and mobile-first websites quickly and efficiently. It includes a wide range of pre-built CSS classes, JavaScript plugins, and other tools that can be used to create attractive and functional web interfaces without having to write much custom code.
+
+<br/>
+
+## Resources
+> [Bootstrap documentation](https://getbootstrap.com/)
+
+<br/>
+
+## Tutorials
+
+> - [Elzero Web School Bootstrap 4](https://www.youtube.com/watch?v=EzHbZjXDdKc&pp=ygUJYm9vdHN0cmFw)
+> - [Elzero Web School Bootstrap 5 Bondi Design](https://youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ)
+
+<br/>
+
+---
+
+<br/>
+
+### b. JavaScript
+
+JavaScript is a high-level programming language used to create interactive and dynamic websites. It is a scripting language that is used to create and control dynamic web content, such as animations and interactive forms. JavaScript is an essential component of modern web development and is supported by all major web browsers. It is often used in conjunction with HTML and CSS to create dynamic and responsive websites and web applications.
+
+<br/>
+
+## 📺 JavaScript Playlist
+
+[**Learn JavaScript 2021 In Arabic Elzero Web School**](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&si=_25JmcoETmXIaGyX)
+
+
+### Week 1
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 1 To 9 | Introduction | • [**Assignments For Lessons 1 To 9**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009) |
+From 10 To 17 | Data Types | • [**Assignments For Lessons 10 To 17**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017) |
+From 18 To 22 | Data Types | • [**Assignments For Lessons 18 To 22**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022) |
+From 23 To 26 | Number & String | • [**Assignments For Lessons 23 To 26**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/) |
+From 27 To 30 | Number & String | • [**Assignments For Lessons 27 To 30**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-027-to-030/) |
+
+### Week 2
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 31 To 32 | Conditions | • [**Assignments For Lessons 31 To 32**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/) |
+From 33 To 37 | Conditions | • [**Assignments For Lessons 33 To 37**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/) |
+From 38 To 39 | Conditions | • [**Assignments For Lessons 38 To 39**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/) |
+From 40 To 47 | Array      | • [**Assignments For Lessons 40 To 47**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/) |
+From 48 To 53 | Loop       | • [**Assignments For Lessons 48 To 53**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/) |
+From 54 To 56 | Loop       | • [**Assignments For Lessons 54 To 56**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-054-to-056/) |
+
+### Week 3
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 57 To 63 | Functions | • [**Assignments For Lessons 57 To 63**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-057-to-063/) |
+From 64 To 70 | Functions | • [**Assignments For Lessons 64 To 70**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-064-to-070/) |
+
+### Week 4
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 71 To 78 | Higher Order Functions | • [**Assignments For Lessons 71 To 78**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-071-to-078/) |
+From 79 To 85 | Object | • [**Assignments For Lessons 79 To 85**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-079-to-085/) |
+
+### Week 5
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 86 To 93 | DOM | • [**Assignments For Lessons 86 To 93**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-086-to-093/) |
+From 94 To 101 | DOM | • [**Assignments For Lessons 94 To 101**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-094-to-101/) |
+
+Extra resource:
+
+- DOM Crash Course [Part #1 🎬](https://youtu.be/0ik6X4DJKCc) - [Part #2 🎬](https://youtu.be/mPd2aJXCZ2g) - [Part #3 🎬](https://youtu.be/wK2cBMcDTss) - [Part #4 (Final Project) 🎬](https://youtu.be/i37KVt_IcXw)
+
+### Week 6
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 102 To 110 | BOM | • [**Assignments For Lessons 102 To 110**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/) |
+From 111 To 114 | BOM | • [**Assignments For Lessons 111 To 114**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/) |
+
+### Week 7
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 115 To 122 | Destructuring | • [**Assignments For Lessons 115 To 122**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/) |
+
+### Week 8
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 123 To 133 | Map And Set | • [**Assignments For Lessons 123 To 133**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-123-to-133/) |
+
+### Week 9
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 134 To 146 | Regular Expression | • [**Assignments For Lessons 134 To 146**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/) |
+
+### Week 10
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 147 To 158 | OOP | • [**Assignments For Lessons 147 To 158**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/) |
+
+Extra resource:
+
+- [JavaScript OOP Crash Course (ES5 & ES6) 🎬](https://youtu.be/vDJpGenyHaA)
+
+### Week 11
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 159 To 168 | Date | • [**Assignments For Lessons 159 To 168**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/) |
+
+### Week 12
+| **Videos** | **Topic** | **Assignments Links** |
+| --- | --- | --- |
+From 169 To 178 | AJAX + JSON | • [**Assignments For Lessons 169 To 178**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/) |
+From 179 To 188 | Promise, Async, Await | • [**Assignments For Lessons 179 To 188**](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/) |
+
+<br/>
+
+## English [paid] [**jonas schmedtmann**]
+[**The Complete JavaScript Course 2023: From Zero to Expert!**](https://www.udemy.com/course/the-complete-javascript-course/) [recommended]
+
+<br/>
+
+## Resources
+- **Follow the tutorial with an interactive environment** [**Learn JavaScript**](https://learnjavascript.online/)
+- **The Modern JavaScript Tutorial [javascrip.info](https://javascript.info/)**
+
+<br/>
+
+## Youtube Channels
+- [**Traversy Media**](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [**Elzero Web School**](https://www.youtube.com/@ElzeroWebSchool)
+- [**Freecodecamp**](https://www.youtube.com/@freecodecamp)
+- [**Unique Coderz Academy**](https://www.youtube.com/@UniqueCoderzAcademy)
+
+<br/>
+
+## Interview Questions
+- [**javascript-interview-questions**](https://github.com/FADL285/javascript-interview-questions) 
+
+<br/>
+
