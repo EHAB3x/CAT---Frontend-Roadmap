@@ -105,8 +105,8 @@ HTML employs a series of tags to define a web page's structure and layout. For i
 
 ## 📚 HTML Resources
 
-- [**HTML Tutorial - W3Schools**](https://www.w3schools.com/html/default.asp) 📖
-- [**HTML Basics - MDN Web Docs**](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) 📖
+> - [**HTML Tutorial - W3Schools**](https://www.w3schools.com/html/default.asp) 📖
+> - [**HTML Basics - MDN Web Docs**](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) 📖
 
 <br/>
 
@@ -161,15 +161,15 @@ CSS stands for Cascading Style Sheets and is a fundamental technology used for w
 
 ## 📚 CSS Resources
 
-- [Learn CSS (web.dev)](https://web.dev/learn/css/) 📖
-- [CSS Tutorial - W3Schools](https://www.bing.com/ck/a?!&&p=5fa2d544e23c386eJmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTE4OQ&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=w3schools%2fcss&u=a1aHR0cHM6Ly93d3cudzNzY2hvb2xzLmNvbS9Dc3Mv&ntb=1) **📖**
-- [A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks](https://www.bing.com/ck/a?!&&p=78ac93d4b61954fcJmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTI4NA&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=css+flexbox+article&u=a1aHR0cHM6Ly9jc3MtdHJpY2tzLmNvbS9zbmlwcGV0cy9jc3MvYS1ndWlkZS10by1mbGV4Ym94Lw&ntb=1) **📖**
-- [A Complete Guide to CSS Grid | CSS-Tricks - CSS-Tricks](https://www.bing.com/ck/a?!&&p=80825168f57741b4JmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTI4NA&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=css+grid+article&u=a1aHR0cHM6Ly9jc3MtdHJpY2tzLmNvbS9zbmlwcGV0cy9jc3MvY29tcGxldGUtZ3VpZGUtZ3JpZC8&ntb=1) **📖**
-- [position | CSS-Tricks - CSS-Tricks](https://www.bing.com/ck/a?!&&p=d7d0d33d07de54b0JmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTQzMQ&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=css+positions+article&u=a1aHR0cHM6Ly9jc3MtdHJpY2tzLmNvbS9hbG1hbmFjL3Byb3BlcnRpZXMvcC9wb3NpdGlvbi8&ntb=1) **📖**
-- [Everything you need to know about CSS Variables](https://www.bing.com/ck/a?!&&p=ff418981d8895dffJmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTMxMQ&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=css+variables+article&u=a1aHR0cHM6Ly9jc3MtdHJpY2tzLmNvbS9ldmVyeXRoaW5nLW5lZWQta25vdy1jc3MtdmFyaWFibGVzLw&ntb=1) **📖**
-- [animation | CSS-Tricks - CSS-Tricks](https://www.bing.com/ck/a?!&&p=1463c1cd792c3318JmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTM0Mw&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=css+animations+article&u=a1aHR0cHM6Ly9jc3MtdHJpY2tzLmNvbS9hbG1hbmFjL3Byb3BlcnRpZXMvYS9hbmltYXRpb24v&ntb=1) **📖**
-- [Flexbox CSS in 20 minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=4&pp=iAQB) 🎥
-- [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=5&pp=iAQB) 🎥
+> - [Learn CSS (web.dev)](https://web.dev/learn/css/) 📖
+> - [CSS Tutorial - W3Schools](https://www.bing.com/ck/a?!&&p=5fa2d544e23c386eJmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTE4OQ&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=w3schools%2fcss&u=a1aHR0cHM6Ly93d3cudzNzY2hvb2xzLmNvbS9Dc3Mv&ntb=1) **📖**
+> - [A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks](https://www.bing.com/ck/a?!&&p=78ac93d4b61954fcJmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTI4NA&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=css+flexbox+article&u=a1aHR0cHM6Ly9jc3MtdHJpY2tzLmNvbS9zbmlwcGV0cy9jc3MvYS1ndWlkZS10by1mbGV4Ym94Lw&ntb=1) **📖**
+> - [A Complete Guide to CSS Grid | CSS-Tricks - CSS-Tricks](https://www.bing.com/ck/a?!&&p=80825168f57741b4JmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTI4NA&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=css+grid+article&u=a1aHR0cHM6Ly9jc3MtdHJpY2tzLmNvbS9zbmlwcGV0cy9jc3MvY29tcGxldGUtZ3VpZGUtZ3JpZC8&ntb=1) **📖**
+> - [position | CSS-Tricks - CSS-Tricks](https://www.bing.com/ck/a?!&&p=d7d0d33d07de54b0JmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTQzMQ&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=css+positions+article&u=a1aHR0cHM6Ly9jc3MtdHJpY2tzLmNvbS9hbG1hbmFjL3Byb3BlcnRpZXMvcC9wb3NpdGlvbi8&ntb=1) **📖**
+> - [Everything you need to know about CSS Variables](https://www.bing.com/ck/a?!&&p=ff418981d8895dffJmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTMxMQ&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=css+variables+article&u=a1aHR0cHM6Ly9jc3MtdHJpY2tzLmNvbS9ldmVyeXRoaW5nLW5lZWQta25vdy1jc3MtdmFyaWFibGVzLw&ntb=1) **📖**
+> - [animation | CSS-Tricks - CSS-Tricks](https://www.bing.com/ck/a?!&&p=1463c1cd792c3318JmltdHM9MTY5MjU3NjAwMCZpZ3VpZD0wNjRkM2JkYy0xMzkyLTY0ZDktMzA0MS0zNDRkMTJlZTY1NzUmaW5zaWQ9NTM0Mw&ptn=3&hsh=3&fclid=064d3bdc-1392-64d9-3041-344d12ee6575&psq=css+animations+article&u=a1aHR0cHM6Ly9jc3MtdHJpY2tzLmNvbS9hbG1hbmFjL3Byb3BlcnRpZXMvYS9hbmltYXRpb24v&ntb=1) **📖**
+> - [Flexbox CSS in 20 minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=4&pp=iAQB) 🎥
+> - [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=5&pp=iAQB) 🎥
 
 <br/>
 
@@ -186,40 +186,40 @@ Learn to build and style web pages using HTML and CSS. Practice creating layouts
 ## 📺 Tutorials
 
 [**Elzero Web Schools**](https://elzero.org/practical-html-css/) [ Arabic ]
-- [HTML AND CSS TEMPLATE 1](https://youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) 🎥
-- [HTML AND CSS TEMPLATE 2](https://youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t) 🎥
-- [HTML AND CSS TEMPLATE 3](https://youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc) 🎥
-- [HTML AND CSS TEMPLATE 4](https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh) 🎥
+> - [HTML AND CSS TEMPLATE 1](https://youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) 🎥
+> - [HTML AND CSS TEMPLATE 2](https://youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t) 🎥
+> - [HTML AND CSS TEMPLATE 3](https://youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc) 🎥
+> - [HTML AND CSS TEMPLATE 4](https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh) 🎥
 
 <br/>
   
 [**Traversy Media**](https://www.youtube.com/@TraversyMedia) [ ENGLISH ]
-- [Build a Starbucks Landing Page Clone](https://www.youtube.com/watch?v=x_n2FGNsm0o&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=59&pp=iAQB) 🎥
-- [Pluralsight Login Page Clone](https://www.youtube.com/watch?v=wIx1O5Y5EB4&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=9&pp=iAQB) 🎥
-- [Best Way to Create Nav](https://youtu.be/SkML640BcoA?si=x3zNG5r7PM-OO7B2) 🎥
-- [Master responsive](https://youtu.be/x4u1yp3Msao?si=d_lRwpJcPTJsYzki) 🎥
+> - [Build a Starbucks Landing Page Clone](https://www.youtube.com/watch?v=x_n2FGNsm0o&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=59&pp=iAQB) 🎥
+> - [Pluralsight Login Page Clone](https://www.youtube.com/watch?v=wIx1O5Y5EB4&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=9&pp=iAQB) 🎥
+> - [Best Way to Create Nav](https://youtu.be/SkML640BcoA?si=x3zNG5r7PM-OO7B2) 🎥
+> - [Master responsive](https://youtu.be/x4u1yp3Msao?si=d_lRwpJcPTJsYzki) 🎥
 
 <br/>
 
 ## 📚 Challenge Yourself
-- [Frontend Mentor](https://www.frontendmentor.io/)
-- [Code well](https://www.codewell.cc/challenges)
-- [CSS Battle](https://cssbattle.dev/)
-- [free templates](https://www.graphberry.com/)
-- [Frontend Practice | Project Library](https://www.frontendpractice.com/projects)
-- [Responsive Web Developer (devchallenges.io)](https://devchallenges.io/paths/responsive-web-developer)
+> - [Frontend Mentor](https://www.frontendmentor.io/)
+> - [Code well](https://www.codewell.cc/challenges)
+> - [CSS Battle](https://cssbattle.dev/)
+> - [free templates](https://www.graphberry.com/)
+> - [Frontend Practice | Project Library](https://www.frontendpractice.com/projects)
+> - [Responsive Web Developer (devchallenges.io)](https://devchallenges.io/paths/responsive-web-developer)
 
 <br/>
 
 ## 📚 Interview Questions
-- [HTML INTERVIEW QUESTIONS](https://www.interviewbit.com/html-interview-questions/) 📖
-- [CSS INTERVIEW QUESTIONS](https://www.interviewbit.com/css-interview-questions/) 📖
+> - [HTML INTERVIEW QUESTIONS](https://www.interviewbit.com/html-interview-questions/) 📖
+> - [CSS INTERVIEW QUESTIONS](https://www.interviewbit.com/css-interview-questions/) 📖
 
 <br/>
 
 ## 📚 Interview Questions Videos
-- [HTML INTERVIEW QUESTIONS](https://youtu.be/OGNcpEX5nvg?si=-PyDtspC4VGNMgo3) 🎥
-- [CSS INTERVIEW QUESTIONS](https://youtu.be/CxhOM8O28rg?si=SDdnvjcToaoR_sY0) 🎥
+> - [HTML INTERVIEW QUESTIONS](https://youtu.be/OGNcpEX5nvg?si=-PyDtspC4VGNMgo3) 🎥
+> - [CSS INTERVIEW QUESTIONS](https://youtu.be/CxhOM8O28rg?si=SDdnvjcToaoR_sY0) 🎥
 
 <br/>
 
@@ -357,26 +357,107 @@ From 179 To 188 | Promise, Async, Await | • [**Assignments For Lessons 179 To 
 <br/>
 
 ## English [paid] [**jonas schmedtmann**]
-[**The Complete JavaScript Course 2023: From Zero to Expert!**](https://www.udemy.com/course/the-complete-javascript-course/) [recommended]
+> - [**The Complete JavaScript Course 2023: From Zero to Expert!**](https://www.udemy.com/course/the-complete-javascript-course/) [recommended]
 
 <br/>
 
 ## Resources
-- **Follow the tutorial with an interactive environment** [**Learn JavaScript**](https://learnjavascript.online/)
-- **The Modern JavaScript Tutorial [javascrip.info](https://javascript.info/)**
+> - **Follow the tutorial with an interactive environment** [**Learn JavaScript**](https://learnjavascript.online/)
+> - **The Modern JavaScript Tutorial [javascrip.info](https://javascript.info/)**
 
 <br/>
 
 ## Youtube Channels
-- [**Traversy Media**](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-- [**Elzero Web School**](https://www.youtube.com/@ElzeroWebSchool)
-- [**Freecodecamp**](https://www.youtube.com/@freecodecamp)
-- [**Unique Coderz Academy**](https://www.youtube.com/@UniqueCoderzAcademy)
+> - [**Traversy Media**](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+> - [**Elzero Web School**](https://www.youtube.com/@ElzeroWebSchool)
+> - [**Freecodecamp**](https://www.youtube.com/@freecodecamp)
+> - [**Unique Coderz Academy**](https://www.youtube.com/@UniqueCoderzAcademy)
 
 <br/>
 
 ## Interview Questions
-- [**javascript-interview-questions**](https://github.com/FADL285/javascript-interview-questions) 
+> - [**javascript-interview-questions**](https://github.com/FADL285/javascript-interview-questions) 
 
 <br/>
 
+---
+
+<br/>
+
+### c. HTML CSS JavaScript Practice
+
+<br/>
+
+## Resources
+
+- **Elzero Web School** [Front End Tutorials](https://youtube.com/playlist?list=PLDoPjvoNmBAycCXz5d9WvqlmykUIys5e8)
+    > - [**[Arabic] HTML, CSS, JavaScript Tutorials - Create Image Slider**](https://youtu.be/QmPXb-RHy5s)
+    > - [**[Arabic] HTML, CSS, JavaScript Tutorials - To-Do App With Local Storage**](https://youtu.be/ylsFXMHpFUQ)
+    > - [**[Arabic] HTML, CSS, JavaScript Tutorials - Create Countdown Timer**](https://youtu.be/eFsiOTJrrE8)
+    > - [**[Arabic] HTML, CSS, JavaScript Tutorials - Memory Game**](https://youtu.be/KRj4DFBTBkA)
+    > - [**[Arabic] HTML, CSS, JavaScript Tutorials - Create Hangman Game**](https://youtu.be/ZFb_eaYtWwY)
+    > - [**[Arabic] HTML, CSS, JavaScript Tutorials - Fetch GitHub Repositories With Fetch API**](https://youtu.be/uCKCSO8vkiU)
+    > - [**[Arabic] HTML, CSS, JavaScript Tutorials - Create Quiz Application**](https://youtu.be/T5QyLcmcMJ4)
+    <br />
+    
+- **Unique coders** [here](https://www.youtube.com/@UniqueCoderzAcademy)
+    > - [**JavaScript Projects مشاريع وتطبيقات جافاسكربت**](https://youtube.com/playlist?list=PLtFbQRDJ11kGlRWp8MFhqlbO3ZmxIa3RE)
+    > - [**JS Project 2 [ Recipe App ]**](https://youtube.com/playlist?list=PLtFbQRDJ11kEMjSzhHKMdcIuLiIywYWjH)
+    > -  [**مشروع ادارة منتجات كامل بالجافاسكريبت | Full product management system crud with javascript**](https://youtu.be/nJZAvdUhUMs)
+    > - [**E-commerce ( Shopping Cart ) - Pure Javascript**](https://youtube.com/playlist?list=PLtFbQRDJ11kHCgyFid3khHdOk0VEHiJ3e) [Big Project]
+    <br />
+    
+- **Traversy Media**
+    > - [**Build 5 Projects With HTML, CSS & JavaScript**](https://youtu.be/JkeyKeK3V24)
+    > - [**Build a Netflix Landing Page Clone with HTML, CSS & JS**](https://youtu.be/P7t13SGytRk)
+    <br />
+    
+- **Lama Dev** [here](https://youtube.com/playlist?list=PLj-4DlPRT48lRNB0OYsK1WDCCryF1TQTN)
+    > - [**Create a Movie Website in 90 min. HTML & CSS & Javascript**](https://youtu.be/AOlkcLtyXkw)
+    > - [**HTML CSS Javascript E-commerce Website**](https://youtu.be/b3Gqq_k-g24)
+    <br/>
+
+---
+
+<br/>
+
+### d. SASS
+
+<br/>
+
+## What is SASS?
+
+> - **Sass** stands for **S**yntactically **A**wesome **S**tyle**s**heet
+> - Sass is an extension to CSS
+> - Sass is a CSS pre-processor
+> - Sass is completely compatible with all versions of CSS
+> - Sass reduces the repetition of CSS and therefore saves time
+> - Sass was designed by Hampton Catlin and developed by Natalie Weizenbaum in 2006
+
+<br/>
+
+
+## Why to use SASS?
+
+> - Stylesheets are getting larger, more complex, and harder to maintain. This is where a CSS pre-processor can help.
+> - Sass lets you use features that do not exist in CSS, like variables, nested rules, mixins, imports, inheritance, built-in functions, and other stuff
+
+<br/>
+
+
+## **How Does Sass Work?**
+
+> - A browser does not understand Sass code. Therefore, you will need a Sass pre-processor to convert Sass code into standard CSS.
+> - This process is called transpiling. So, you need to give a transpiler (some kind of program) some Sass code and then get some CSS code back.
+
+<br/>
+
+## Resources
+
+- **Arabic**
+    > - [**Learn SASS in Arabic [Elzero Web School]**](https://youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2&si=kTx6MER2hJ4kcyij)
+- **English**
+    > - [**SASS Tutorial [Net Ninja]**](https://youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&si=EKzbriMx6_oyXoPB)
+    > - [**SASS Crash Course [Traversy Media]**](https://www.youtube.com/watch?v=nu5mdN2JIwM&pp=ygUKbGVhcm4gc2Fzcw%3D%3D)
+
+<br/>
