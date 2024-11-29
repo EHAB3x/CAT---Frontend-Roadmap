@@ -1,14 +1,12 @@
 <img src="./roadmap_bg.png"/>
 
-`Ihab Mahmoud` 
+`Ihab Mahmoud`
 
 # CAT Frontend Roadmap: Developer Learning Path
 
 **A skilled developer is always curious.**  
 
 This guide provides a structured path to mastering web development fundamentals, core concepts, and more advanced frameworks.  
-
-**Choose your path in Section 3** to focus on either React or Angular.
 
 <br/>
 
@@ -510,6 +508,7 @@ From 179 To 188 | Promise, Async, Await | • [**Assignments For Lessons 179 To 
 ---
 
 <br/>
+
 ## 3. Advanced Level
 
 ### A. What before React js
@@ -786,3 +785,11 @@ Next.js is a React framework that enables server-side rendering (SSR) and static
 
 - Maximilian Schwarzmüller [Paid]
   > - [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/?couponCode=OF83024E)
+
+<br />
+
+---
+
+<br />
+
+Credits : [Ihab Mahmoud](www.linkedin.com/in/ihabmahmoud1)
