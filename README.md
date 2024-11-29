@@ -10,7 +10,7 @@ This guide provides a structured path to mastering web development fundamentals,
 
 ## 1. Basics
 
- ### a. Introduction
+ ### A. Introduction
 
 Front-end development involves creating the **visual and interactive components** of websites or applications, including layout, styling, and interactive > elements. As businesses move online, front-end development has become an increasingly valuable skill.
 
@@ -77,7 +77,7 @@ Git is a **version control system** that enables collaboration, versioning, and 
 
 <br/>
 
-### b. HTML
+### B. HTML
 
 HTML stands for **Hypertext Markup Language** and is the standard language for creating web pages. It is used to structure content and provide meaning to web elements like text, images, and multimedia. With HTML, developers can create accessible, responsive, and visually appealing websites.
 
@@ -177,7 +177,7 @@ CSS stands for Cascading Style Sheets and is a fundamental technology used for w
 
 <br/>
 
-### d. HTML & CSS Practice
+### D. HTML & CSS Practice
 
 Learn to build and style web pages using HTML and CSS. Practice creating layouts, adding styles, and making your designs responsive and user-friendly.
 
@@ -227,7 +227,7 @@ Learn to build and style web pages using HTML and CSS. Practice creating layouts
 
 <br/>
 
-### e. Basic Level Tasks
+### E. Basic Level Tasks
 
 [Basic Tasks](https://www.notion.so/fff36d2c6e8d8174ac8ee9a678cbbf77?pvs=21)
 
@@ -239,7 +239,7 @@ Learn to build and style web pages using HTML and CSS. Practice creating layouts
 
 ## 2. Intermediate
 
-### a.Bootstrap
+### A.Bootstrap
 
 Bootstrap is a popular open-source CSS framework that provides pre-designed web elements and components for developers to use in their web projects. It was originally developed by Twitter and is now maintained by a community of developers. Bootstrap is designed to make it easy for developers to create responsive and mobile-first websites quickly and efficiently. It includes a wide range of pre-built CSS classes, JavaScript plugins, and other tools that can be used to create attractive and functional web interfaces without having to write much custom code.
 
@@ -261,7 +261,7 @@ Bootstrap is a popular open-source CSS framework that provides pre-designed web 
 
 <br/>
 
-### b. JavaScript
+### B. JavaScript
 
 JavaScript is a high-level programming language used to create interactive and dynamic websites. It is a scripting language that is used to create and control dynamic web content, such as animations and interactive forms. JavaScript is an essential component of modern web development and is supported by all major web browsers. It is often used in conjunction with HTML and CSS to create dynamic and responsive websites and web applications.
 
@@ -270,7 +270,6 @@ JavaScript is a high-level programming language used to create interactive and d
 ## 📺 JavaScript Playlist
 
 [**Learn JavaScript 2021 In Arabic Elzero Web School**](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&si=_25JmcoETmXIaGyX)
-
 
 ### Week 1
 | **Videos** | **Topic** | **Assignments Links** |
@@ -384,7 +383,7 @@ From 179 To 188 | Promise, Async, Await | • [**Assignments For Lessons 179 To 
 
 <br/>
 
-### c. HTML CSS JavaScript Practice
+### C. HTML CSS JavaScript Practice
 
 <br/>
 
@@ -421,7 +420,7 @@ From 179 To 188 | Promise, Async, Await | • [**Assignments For Lessons 179 To 
 
 <br/>
 
-### d. SASS
+### D. SASS
 
 <br/>
 
@@ -459,5 +458,62 @@ From 179 To 188 | Promise, Async, Await | • [**Assignments For Lessons 179 To 
 - **English**
     > - [**SASS Tutorial [Net Ninja]**](https://youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&si=EKzbriMx6_oyXoPB)
     > - [**SASS Crash Course [Traversy Media]**](https://www.youtube.com/watch?v=nu5mdN2JIwM&pp=ygUKbGVhcm4gc2Fzcw%3D%3D)
+
+<br/>
+
+---
+
+<br/>
+
+### E. Problem-Solving
+
+## JSchallenger
+> - [Free Javascript challenges online | JSchallenger](https://www.jschallenger.com/)
+
+## freecodecamp
+> - [**JavaScript Algorithms and Data Structures**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+## Neet Code [problem-solving roadmap]
+> - [Roadmap (neetcode.io)](https://neetcode.io/roadmap)
+
+## Leet Code
+> - [Start with Easy problems, Medium, and so on](https://leetcode.com/)
+
+<br/>
+
+---
+
+<br/>
+
+### F. NPM & Webpack
+
+## What is NPM?
+
+>npm is the world's largest software registry. Open-source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
+
+## Tutorial
+
+> - Traversy Media [NPM Crash Course](https://youtu.be/jHDhaSSKmB0?si=SIZj4D5QXvc5R4xC) 
+
+## What is Webpack?
+
+> Webpack is a **static module bundler for modern JavaScript applications**. It is an open-source tool that runs on top of NodeJS. Webpack takes modules with dependencies and generates one or more bundles that represent those modules. Webpack creates a dependency graph that maps every module your project needs and how they relate to each other.
+
+## Tutorial
+
+> - Traversy Media [Webpack5 Crash Course](https://youtu.be/IZGNcSuwBZs?si=xhKhBipya2elYllZ)
+
+<br/>
+
+---
+
+<br/>
+
+### E. Intermediate Level Tasks
+[Intermediate Tasks](https://www.notion.so/TASKS-L2-fff36d2c6e8d818d8dd9d8b375a4b49c)
+
+<br/>
+
+---
 
 <br/>
