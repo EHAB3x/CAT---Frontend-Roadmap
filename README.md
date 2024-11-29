@@ -14,17 +14,6 @@ This guide provides a structured path to mastering web development fundamentals,
 
 Front-end development involves creating the **visual and interactive components** of websites or applications, including layout, styling, and interactive > elements. As businesses move online, front-end development has become an increasingly valuable skill.
 
- <br/>
- 
-### Foundations of the Web
->
-> - **The Internet** & How It Works
-> - The **World Wide Web (WWW)**
-> - **HTTP** (Hypertext Transfer Protocol)
-> - **URLs** (Uniform Resource Locators)
-> - **Browser Functionality**
-> - **DNS**, Domain Names, & Hosting
-
 <br/>
 
 ### Recommended Resources
@@ -719,7 +708,52 @@ Redux Toolkit is a powerful library that simplifies state management in Redux ap
 
 <br/>
 
-### G. Next JS
+### G. React + TypeScript
+
+## Projects
+  > - [Build eCommerce App using React, TypeScript and Redux Toolkit](https://youtube.com/playlist?list=PLejc1JbD4ZFS4sEpIpLfD18FEnEpafVbz&si=13x7be8x1J7bdEV5)
+
+<br/>
+
+---
+
+<br/>
+
+### I. React Extra libraries
+
+<br/>
+
+## Navigation
+  > - [React Router Tutorial](https://youtube.com/playlist?list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG&si=2Wbb0w3RpTcCkFVG)
+  > - [React Router - Complete Tutorial](https://youtu.be/oTIJunBa6MA?si=RoUyTVVPcjEdQnUI) 
+
+<br/>
+
+## UI Libraries
+  > - [Material UI Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gjxLvV4VEkZ6H6H4yWuS58&si=3ptZuUcr8US2Y5K4)
+  > - [Shadcn UI Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma&si=zsYuHSPPITijt_4o)
+
+<br/>
+
+## Data Fetching
+ > - [Learn React Query In 50 Minutes](https://youtu.be/r8Dg0KVnfMA?si=5DlWRpnhHyvz35Od)
+ > - [React Query - Complete Tutorial](https://youtu.be/8K1N3fE-cDs?si=jbuDOUcGgU2UomK5)
+
+<br/>
+
+## Form Validation
+ > - [React Hook Form: Crash Course](https://youtu.be/8OO4xhJnniU?si=8FTADKTdlmQM0y8U) (Arabic)
+ > - [Learn Zod In 30 Minutes](https://youtu.be/L6BE-U3oy80?si=T6shH27dz5YqGWSY)
+ > - [React Hook Form - Complete Tutorial (with Zod)](https://youtu.be/cc_xmawJ8Kg?si=2vsSvcVpAAniV2lg)
+ > - [React Hook Form Tutorials](https://youtube.com/playlist?list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&si=6oi5HpmVqw9nfTNS)
+
+<br/>
+
+---
+
+<br/>
+
+### I. Next JS
 
 Next.js is a React framework that enables server-side rendering (SSR) and static site generation (SSG) for building fast, optimized web applications. It offers features like file-based routing, API routes, automatic code splitting, and easy deployment, making it a popular choice for building scalable, SEO-friendly websites with excellent performance.
 
