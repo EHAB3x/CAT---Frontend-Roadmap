@@ -517,3 +517,234 @@ From 179 To 188 | Promise, Async, Await | • [**Assignments For Lessons 179 To 
 ---
 
 <br/>
+## 3. Advanced Level
+
+### A. What before React js
+
+- HTML
+- CSS
+- JavaScript Fundamentals
+  > - Syntax
+  > - Variables
+  > - Arrays / Objects
+  > - Events
+  > - Functions
+  > - Loops
+  > - Conditions
+- High Order Array Methods
+   > - forEach
+   > - map
+   > - filter
+   > - reduce
+   > - sort
+- Arrow Function
+   > - Lexical “this keyword” How does it work?
+- Es6 Modules
+   > - import/export
+- Promises
+   > - Async/Await
+   > - Fetch API
+- Destructuring
+- Classes
+- Spread Operator
+- npm
+- Webpack & Babel
+    > - basic understanding and how they work
+
+<br/>
+
+---
+
+<br/>
+
+### B. React js
+
+## Documentation
+> - [Official Documentation](https://react.dev/)
+
+<br/>
+
+## Arabic Tutorials
+- Kimz Codes
+ > - [Part1: ReactJs Hooks 2023](https://www.youtube.com/watch?v=RgtTrM_sflo&list=PLejc1JbD4ZFSaQIFNstRIrbm_fqb12Q59&pp=iAQB)
+ > - [Part2: LifeCycle](https://www.youtube.com/playlist?list=PLejc1JbD4ZFQa9YDF5pzB4JFbJovh3TN9)
+ > - [Part3: Performance Optimization](https://www.youtube.com/watch?v=AZ41NpgebPA&list=PLejc1JbD4ZFTYdkjzqYBujf7UCVQyn_aq&pp=iAQB)
+ > - [Part4: ReactJs Advanced](https://www.youtube.com/watch?v=aC9vgsUorPE&list=PLejc1JbD4ZFTiDCCVu_uCW0GXqyvhtbf8&pp=iAQB)
+
+
+- Code Zone
+ > - [**Arabic React Course [Itrax] - كورس ريأكت بالعربى**](https://youtube.com/playlist?list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn&si=dtxIyDWEhVg4HoFe)
+
+<br/>
+
+## English Tutorials
+- freecodecamp
+ > - [React Course - Beginner's Tutorial for React JavaScript Library [2022]](https://www.youtube.com/watch?v=bMknfKXIFA8&t=2s)
+
+- Jonas Schmedtmann [Recommended] [Paid]
+ > - [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
+
+- Maximilian Schwarzmüller [Paid]
+ > - [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
+<br/>
+
+---
+
+<br/>
+
+### C. React Practice
+
+## Beginner
+> - [**Brand page**](https://youtu.be/W7up-w1QYpw?si=ZKItS1GRplcWPnLz)
+> - [**Contact Us page**](https://www.youtube.com/watch?v=hrHIzqyq06U)
+> - [**Foody Zone**](https://youtu.be/i__4ul5yXFc?si=OezvNqrEvlgyBf9J)
+> - [**React Todo List App**](https://www.youtube.com/watch?v=LoYbN6qoQHA)
+
+<br/>
+
+## Beginner to Intermediate
+> - [**Invoice App in ReactJs**](https://youtube.com/playlist?list=PLakmP0ibjfQcNNh7PnmIQ9zTm2bLM_wCC&si=YVW0WZCN2AvfKU9G)
+
+<br/>
+
+## Advanced
+> - [**Build App Clones with ReactJS**](https://youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP&si=VO45dYjcXI9pc5gy)
+
+<br/>
+
+## Youtube Channels
+
+> - [(23) JavaScript Mastery - YouTube](https://www.youtube.com/@javascriptmastery)
+> - [(23) Traversy Media - YouTube](https://www.youtube.com/@TraversyMedia)
+> - [(23) Lama Dev - YouTube](https://www.youtube.com/@LamaDev)
+> - [freeCodeCamp.org - YouTube](https://www.youtube.com/@freecodecamp)
+
+<br/>
+
+---
+
+<br/>
+
+### D. Redux
+
+Redux Toolkit is a powerful library that simplifies state management in Redux applications. It provides tools for writing cleaner and more efficient Redux code by offering features like a simplified store setup, built-in reducers, actions, and middleware. It also helps reduce boilerplate and improves developer productivity, making it easier to manage global state in React apps.
+
+## Documentation
+> - [Official Documentation](https://redux.js.org/)
+
+<br/>
+
+## Arabic Tutorials
+- Kimz Codes 
+  > - [**React Level 2 Part 1: Redux ToolKit**](https://youtube.com/playlist?list=PLejc1JbD4ZFREfrBoSl8tjAPZOY6HNqZv&si=3W2ITXcvVxsYbNSw)
+  > - [React Level 2 - Part 2: Redux ToolKit Build Book Store](https://youtube.com/playlist?list=PLejc1JbD4ZFQFvS469VXyCPO_py_kvVD5&si=RnaU1qoCr0HteypV)
+
+- Index Academy - اتعلم برمجة بالعربي
+  > - [Redux With React](https://youtube.com/playlist?list=PLDQ11FgmbqQObr_XGBVQiRr89YitNq-zc&si=jdm9bdzeq3vGxCSV)
+
+<br/>
+
+## English Tutorials 
+- freeCodeCamp
+  > - [Redux Tutorial - Beginner to Advanced](https://youtu.be/zrs7u6bdbUw?si=7bFF43-Pyjjnzun-)
+
+- Jonas Schmedtmann [Recommended] [Paid]
+    > - [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
+
+- Maximilian Schwarzmüller [Paid]  
+    > - [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
+<br/>
+
+---
+
+<br/>
+
+### E. Tailwind CSS
+
+## Tutorials
+
+- Ag Coding
+    > - [**Tailwind CSS**](https://youtube.com/playlist?list=PLnD96kXp-_pMR9cBUmvsz_kIIt9bv2UIP&si=vv0FzQALeH1D3USo)
+    
+- أكاديمية ترميز
+  > - [تعلم Tailwind CSS في مقطع واحد](https://youtu.be/Pk3hhCJG2Dk?si=QWscffc5F9Dx9uJa)
+    
+<br />
+
+## Practice
+
+- Light Code
+    > - [Build and Deploy a Fully Responsive Plant Website](https://youtu.be/zKguO4oaAGs?si=fKNO__W54_s32q3i)
+- Nour Homsi
+    > - [Full Website Using Tailwind](https://youtu.be/9Px2cwdQ8PM?si=bl2qzwOweTRLqc6O)
+
+<br/>
+
+---
+
+<br/>
+
+### F. TypeScript
+
+## What is TypeScript?
+
+- TypeScript is a syntactic superset of JavaScript which adds **static typing**.
+    - "Syntactic Superset" means that it shares the same base syntax as JavaScript but adds something to it.
+- This basically means that TypeScript adds syntax on top of JavaScript, allowing developers to add **types**.
+
+<br />
+
+## Why should I use TypeScript?
+
+- JavaScript is a loosely typed language. It can be difficult to understand what types of data are being passed around in JavaScript.
+- In JavaScript, function parameters and variables don't have any information! So developers need to look at documentation or guess based on the implementation.
+- TypeScript allows specifying the types of data being passed around within the code and has the ability to report errors when the types don't match.
+- For example, TypeScript will report an error when passing a string into a function that expects a number. JavaScript will not.
+
+<br />
+
+## Resources
+- Arabic
+    > - [Learn TypeScript In Arabic [Elzero Web School]](https://www.youtube.com/watch?v=yUndnE-2osg&list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
+
+- English
+    > - [Learn TypeScript In English [Net Ninja]](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+    > - [TypeScript Crash Course for React/Nextjs developers [Lama Dev]](https://www.youtube.com/watch?v=WlxcujsvcIY&pp=ygUTdHlwZXNjcmlwdCB0dXRvcmlhbA%3D%3D)
+
+<br/>
+
+---
+
+<br/>
+
+### G. Next JS
+
+Next.js is a React framework that enables server-side rendering (SSR) and static site generation (SSG) for building fast, optimized web applications. It offers features like file-based routing, API routes, automatic code splitting, and easy deployment, making it a popular choice for building scalable, SEO-friendly websites with excellent performance.
+
+## Documentation
+> - [Official Documentation](https://nextjs.org/)
+
+<br />
+
+
+## Arabic Tutorials
+
+- أكاديمية ترميز
+  > - [كورس NEXT JS | شرح كامل في ساعتين | شرح نظري و تطبيق عملي | SSG vs SSR vs ISG vs SPA](https://youtu.be/_t4c-vxalp4?si=jipE9elCYlxJ2Dx2)
+  
+- Index Academy - اتعلم برمجة بالعربي
+  > - [‎⁨NextJS 13- Course](https://youtu.be/KN66vLV0QZk?si=jgyJDHY9IeJ1y6HY)
+
+<br />
+
+## English Tutorials
+- JavaScript Mastery
+    > - [**Next.js 14 Full Course 2024**](https://youtu.be/wm5gMKuwSYk?si=B2SscjZRC-07Ouyj)
+
+- Stephen Grider [Recommended] [Paid]
+  > - [Next JS: The Complete Developer's Guide](https://www.udemy.com/course/next-js-the-complete-developers-guide/?couponCode=OF83024E)
+
+- Maximilian Schwarzmüller [Paid]
+  > - [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/?couponCode=OF83024E)
