@@ -792,4 +792,5 @@ Next.js is a React framework that enables server-side rendering (SSR) and static
 
 <br />
 
-Credits : [Ihab Mahmoud](www.linkedin.com/in/ihabmahmoud1)
+### Credit
+- [Ihab Mahmoud - Circle Head](www.linkedin.com/in/ihabmahmoud1)
